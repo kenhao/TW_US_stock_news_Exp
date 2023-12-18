@@ -26,5 +26,8 @@ Executes Granger causality tests between TAIEX and NASDAQ to determine causal re
 ## Experiment result
 The results demonstrate that U.S. stock markets, particularly NASDAQ, significantly influence the Taiwanese market. However, this conclusion is limited to short-term relations, and further study is needed for long-term implications.
 
+Full paper : [https://docs.google.com/document/d/1sHkIHR9ltdLQ2Zj2KYN1RV1yF9q7hbAgSVesmv3sl78/edit?usp=sharing](https://docs.google.com/document/d/1sHkIHR9ltdLQ2Zj2KYN1RV1yF9q7hbAgSVesmv3sl78/edit?usp=sharing)
+
+
 
 
